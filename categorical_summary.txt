@@ -1,0 +1,412 @@
+Biến: DiaChi
+DiaChi
+Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội                                                                             38
+Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                                26
+5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội                                                                          10
+Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                           7
+Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội                                                6
+Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội                                                                  5
+Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội                                                                     5
+Phố Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                       4
+Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                                             4
+Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội                                                                       3
+Phố Nguyễn Cơ Thạch, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội                                                                 3
+Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                                                3
+Võ Chí Công, Phường Phú Thượng, Quận Tây Hồ, Hà Nội                                                                             3
+Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                  3
+Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                    3
+Đường Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội                                                                 3
+Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội                                                                                  3
+Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội                                                                     3
+Phố 8 Tháng 3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội                                                                      3
+Phố Nguyễn Phan Chánh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                3
+Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội                                                                         3
+Phố Thái Thịnh, Phường Thịnh Quang, Quận Đống Đa, Hà Nội                                                                        3
+Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                       3
+Phố Nam Đồng, Phường Nam Đồng, Quận Đống Đa, Hà Nội                                                                             2
+Nhân Mỹ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội                                                                             2
+Đường Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội                                                                             2
+Lạc Long Quân, Phường Phú Thượng, Quận Tây Hồ, Hà Nội                                                                           2
+Đường Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội                                                                      2
+Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội                                                                          2
+Phố Nguyễn Đức Cảnh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                               2
+250, Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội                                                                     2
+Đường Khuất Duy Tiến, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội                                                            2
+Phố Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                    2
+Hoàng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                           2
+Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội                                                                       2
+Phố Tố Hữu, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                          2
+Đường Lê Quang Đạo, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội                                                                     2
+201, Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội                                                                     2
+Phố Kim Ngưu, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội                                                                       2
+Đường Lê Đức Thọ, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội                                                                        2
+Phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội                                                                       2
+Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội                                                                                 2
+Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội                                                                          2
+Đường Phú Mỹ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                        2
+Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                       2
+Lò Đúc, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội                                                                             2
+Đường Hoàng Quốc Việt, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội                                                               2
+Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                       2
+Phố Mạc Thái Tổ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội                                                                          2
+Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                             2
+Đường Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội                                                                 2
+Hưng Chính, Xã Đông Hội, Huyện Đông Anh, Hà Nội                                                                                 2
+Phố Đỗ Nhuận, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội                                                                        2
+Phố Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội                                                                          2
+Triều Khúc , Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội                                                                     2
+Đường 40M Nam Thăng Long, Phường Phú Thượng, Quận Tây Hồ, Hà Nội                                                                1
+502 khu TT 8/3, Phố 8 Tháng 3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội                                                      1
+Phố Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Hà Nội                                                                  1
+Phố Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội                                                                  1
+Khu đô thị Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội                                                                  1
+Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                                   1
+Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                                 1
+số 32, Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                           1
+Phố Lê Gia Đỉnh, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội                                                                      1
+Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội                                                                         1
+Tam Trinh , Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội                                                                            1
+Phố Hồng Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội                                                                       1
+Đường Hoàng Hoa Thám, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội                                                                    1
+Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội                                                                      1
+A2, Phố Khâm Thiên, Phường Thổ Quan, Quận Đống Đa, Hà Nội                                                                       1
+Đường Vân Hồ 3, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội                                                                   1
+đường láng, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội                                                                               1
+Lô HH6, Lô HH6 Lô đất HH6, Khu đô thị mới Nam An Khánh, Huyện Hoài Đức, Hà Nội, Xã An Khánh, Huyện Hoài Đức, Hà Nội             1
+Phố Đặng Văn Ngữ, Phường Trung Tự, Quận Đống Đa, Hà Nội                                                                         1
+Phố Kim Mã, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội                                                                             1
+xuân thủy, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội                                                                               1
+Hồ Đền Lừ, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                                               1
+16 , Phố Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội                                                                       1
+Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội                                                                           1
+Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội                                                                           1
+Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội                                                                   1
+Xuân Tảo, Phường Xuân Tảo, Quận Bắc Từ Liêm, Hà Nội                                                                             1
+Ngõ Thịnh Quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội                                                                       1
+Phố Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Hà Nội                                                                   1
+Nguyễn Đức Cảnh, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội                                                                        1
+Đường Mễ Trì, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội                                                                           1
+Phố Ngọc Hà, Phường Ngọc Hà, Quận Ba Đình, Hà Nội                                                                               1
+Phố Bạch Mai, Phường Cầu Dền, Quận Hai Bà Trưng, Hà Nội                                                                         1
+Phố Trần Đăng Ninh, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội                                                                 1
+Phố Huỳnh Thúc Kháng, Phường Láng Thượng, Quận Đống Đa, Hà Nội                                                                  1
+Đường Đức Diễn, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội                                                                      1
+458, 458 Đường Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội                                                            1
+Đường Nguyễn Đạo An, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội                                                                  1
+Phố Phương Mai, Phường Kim Liên, Quận Đống Đa, Hà Nội                                                                           1
+Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội                                                                   1
+Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội                                                                        1
+18 ngõ 81/14, Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội                                                                1
+Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                                               1
+34, Đường Dương Văn Bé, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                                  1
+Đường Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội                                                                  1
+CT20, Phố Việt Hưng, Phường Việt Hưng, Quận Long Biên, Hà Nội                                                                   1
+Cổ Loa, Xã Cổ Loa, Huyện Đông Anh, Hà Nội                                                                                       1
+Quốc Lộ 32, Xã Đan Phượng, Huyện Đan Phượng, Hà Nội                                                                             1
+87, Lĩnh Nam, Phường Mai Động, Quận Hoàng Mai, Hà Nội                                                                           1
+Đường Điện Biên Phủ, Phường Điện Biên, Quận Ba Đình, Hà Nội                                                                     1
+Tân Xuân, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội                                                                            1
+Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                           1
+Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội                                                                        1
+Phố Thái Hà, Phường Láng Hạ, Quận Đống Đa, Hà Nội                                                                               1
+Đường Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội                                                                          1
+Ngõ 22 Nguyễn Đức Cảnh, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                                  1
+Đường Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Hà Nội                                                                              1
+Đường Phan Trọng Tuệ, Xã Tả Thanh Oai, Thanh Trì, Hà Nội, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội                            1
+Phố Nguyễn Chính, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                                        1
+Phố An Trạch, Phường Quốc Tử Giám, Quận Đống Đa, Hà Nội                                                                         1
+275, Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội                                                        1
+Phố Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội                                                                    1
+Phố An Trạch 1, Phường Quốc Tử Giám, Quận Đống Đa, Hà Nội                                                                       1
+Tam Trinh, Phường Mai Động, Quận Hoàng Mai, Hà Nội                                                                              1
+Đường Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                           1
+Phố Trần Điền, Phường Định Công, Quận Hoàng Mai, Hà Nội                                                                         1
+Đường Lô 1 Đền Lừ 1, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                               1
+CT12 Kim Văn Kim Lũ, Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                  1
+Hoàng Liệt, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                              1
+An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội                                                                          1
+Ngõ 250 Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội                                                                  1
+Đường Trương Định, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội                                                                      1
+Khu Trung Hòa Nhân Chính, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                            1
+Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội                                                                               1
+Đường Hải Đăng 5, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội                                                                              1
+Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội                                                                     1
+210, Quang Trung, Phường Phúc La, Quận Hà Đông, Hà Nội                                                                          1
+Phố Trung Kính, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội                                                                         1
+Đường Võ Chí Công, Phường Xuân La, Quận Tây Hồ, Hà Nội                                                                          1
+khâm thiên, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội                                                                              1
+Vin, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội                                                                                   1
+Đường Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội                                                                     1
+Số 7, Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội                                                                           1
+28, 28 Đường Trần Bình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                              1
+304, Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội                                                                     1
+Xã Đa Tốn, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội                                                                                     1
+Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội                                                                        1
+Phố Ngô Huy Quỳnh, Phường Việt Hưng, Quận Long Biên, Hà Nội                                                                     1
+Ngõ 33 - Tổ 6 Đa Sĩ - P.Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                       1
+Đường Tây Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                           1
+Phố Hoàng Công, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                                          1
+Số 323, Số 323 Số 323 Xuân Đỉnh, phường Xuân Đỉnh, quận Bắc Từ Liêm, TP. Hà Nội, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội     1
+Đường Lê Quang Đạo, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội                                                                     1
+Phạm Văn Đồng, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội                                                                       1
+S402 Smart City, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                        1
+30, 30 Đường Phạm Văn Đồng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội                                                         1
+ct10, Phố Nguyễn Cao Luyện, Phường Đức Giang, Quận Long Biên, Hà Nội                                                            1
+Đường Nguyễn Xiển, Phường Kim Giang, Quận Thanh Xuân, Hà Nội                                                                    1
+Nguyễn Đức Cảnh , Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                                  1
+Phố Võ Thị Sáu, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội                                                                    1
+Phố Nguyễn Cao Luyện, Phường Giang Biên, Quận Long Biên, Hà Nội                                                                 1
+5, Đường Khuất Duy Tiến, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội                                                         1
+Phố Trích Sài, Phường Bưởi, Quận Tây Hồ, Hà Nội                                                                                 1
+70, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                                                      1
+Phố Hoàng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                       1
+s2.06, Đường San Hô 1, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội                                                                         1
+Đường Dương Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội                                                                         1
+Phung Hung, Phường Phú La, Quận Hà Đông, Hà Nội                                                                                 1
+Yên Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội                                                                               1
+Đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội                                                                       1
+Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                                    1
+Giáp Nhất, Phường Khương Đình, Quận Thanh Xuân, Hà Nội                                                                          1
+Phường Đại Kim, Hoàng Mai, Hà Nội, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                     1
+Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                         1
+Phố Pháo Đài Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội                                                                     1
+Đường Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội                                                                  1
+Số 283, Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội                                                              1
+thịnh quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội                                                                           1
+Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội                                                                          1
+Phố Hạ Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội                                                                            1
+Phố Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội                                                                                1
+Phan Trọng Tuệ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                                          1
+Phố Nam Sơn, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                          1
+Phố Thành Thái, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội                                                                         1
+Đường Nguyễn Khang, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội                                                                     1
+Chung cư Tecco Diamond, Vũ Lăng, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội                                                            1
+Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội                                                                          1
+Đường Nguyễn Xiển, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội                                                                     1
+tầng 18 Chung cư Bình Vượng Tower tọa lạc tại số 200 Quang Trung,, Phường Quang Trung, Quận Hà Đông, Hà Nội                     1
+Đường Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội                                                                    1
+1, KĐT Văn Khê, Phường La Khê, Quận Hà Đông, Hà Nội                                                                             1
+Toà 1A Vinaconex 7, 136 Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội                                                  1
+4, Phố Chính Kinh, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội                                                             1
+250, 250 Số 250 Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội           1
+Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội                                                                      1
+30, Phạm Văn Đồng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội                                                                  1
+Đường Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội                                                                  1
+Phố Lê Gia Đỉnh, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội                                                                    1
+Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội                                                                       1
+N2F, Đường Lê Văn Lương, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội                                                                1
+33, Phố Mạc Thái Tổ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội                                                                      1
+Trần Đăng Ninh , Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội                                                                        1
+Ngõ 885 Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội                                                                        1
+Đường Phan Trọng Tuệ, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội                                                                    1
+5, Đường Trâu Quỳ, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội                                                                     1
+187, Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội                                                                          1
+Số 440, Số 440 Đường Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội                                                        1
+Phố Thái Thịnh, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội                                                                          1
+Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội                                                                                 1
+Phường Mễ Trì, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội                                                                          1
+431 Tam Trinh , Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                                    1
+Hoàng Đạo Thành, Phường Kim Giang, Quận Thanh Xuân, Hà Nội                                                                      1
+Giáp Nhất , Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                          1
+Mỗ Lao, Phường Mộ Lao, Quận Hà Đông, Hà Nội                                                                                     1
+Ngõ 1 Đỗ Nhuận, Phường Xuân Tảo, Quận Bắc Từ Liêm, Hà Nội                                                                       1
+Phố Hoàng Cầu, Phường Trung Liệt, Quận Đống Đa, Hà Nội                                                                          1
+Đường Lê Duẩn, Phường Phương Liên, Quận Đống Đa, Hà Nội                                                                         1
+Phố Hào Nam, Phường Cát Linh, Quận Đống Đa, Hà Nội                                                                              1
+Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội                                                                            1
+TÒA SAPPHIRE ( S), Vinhome ocean pack1, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội                                                1
+Phố Kim Ngưu, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội                                                                        1
+Phố Trần Hữu Dực, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội                                                                     1
+2323, Trường Sa, Xã Đông Hội, Huyện Đông Anh, Hà Nội                                                                            1
+Thái Hà , Phường Trung Liệt, Quận Đống Đa, Hà Nội                                                                               1
+Đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội                                                                  1
+Đường Xuân Phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội                                                                 1
+109 Nguyễn Tuân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                     1
+Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội                                                                1
+Đường Đại lộ Thăng Long, Xã An Khánh, Huyện Hoài Đức, Hà Nội                                                                    1
+Phố Chùa Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội                                                                         1
+Thái Thịnh , Phường Láng Thượng, Quận Đống Đa, Hà Nội                                                                           1
+Kim Liên, Phường Kim Liên, Quận Đống Đa, Hà Nội                                                                                 1
+Phố Chùa Bộc, Phường Quang Trung, Quận Đống Đa, Hà Nội                                                                          1
+Ngách 15 Ngõ Gốc Đề, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội                                                                1
+Đường Đặng Xá 1, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội                                                                              1
+Tân Triều, Xã Tân Triều, Huyện Thanh Trì, Hà Nội                                                                                1
+Đường Bằng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                      1
+Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                         1
+Phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                              1
+Minh khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội                                                                          1
+Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội                                                                            1
+Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội                                                                        1
+Đường Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội                                                                          1
+Hoàng Đạo Thành , Phường Kim Giang, Quận Thanh Xuân, Hà Nội                                                                     1
+Đường Trần Khát Chân, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội                                                              1
+Ngõ 48, Hoàng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                   1
+AN DƯƠNG, Phường Phúc Xá, Quận Ba Đình, Hà Nội                                                                                  1
+Cầu Bắc Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                     1
+Phố Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội                                                                        1
+10, Đường Phú Mỹ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                    1
+Tầng 15, Phố Nguyễn Phan Chánh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                       1
+Trần Văn Lai, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội                                                                           1
+378, Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội                                                                      1
+Phố Định Công, Phường Định Công, Quận Hoàng Mai, Hà Nội                                                                         1
+Phố Trịnh Đình Cửu, Phường Định Công, Quận Hoàng Mai, Hà Nội                                                                    1
+Phố Nguyễn Công Trứ, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội                                                                1
+khu đô thị Thanh Hà, Xã Cự Khê, Huyện Thanh Oai, Hà Nội                                                                         1
+Đường Tam Trinh, Phường Mai Động, Quận Hoàng Mai, Hà Nội                                                                        1
+Phố Bùi Thiện Ngộ, Phường Giang Biên, Quận Long Biên, Hà Nội                                                                    1
+Phố Kim Đồng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội                                                                           1
+Đường Nguyễn Trãi, Phường Khương Trung, Quận Thanh Xuân, Hà Nội                                                                 1
+S109, Đường Hải Đăng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội                                                                          1
+Bùi Chang Chước, Phường Nhật Tân, Quận Tây Hồ, Hà Nội                                                                           1
+Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội                                                                            1
+Xã Tân Triều, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội, Xã Tân Triều, Huyện Thanh Trì, Hà Nội                                   1
+151A, Đường Nguyễn Đức Cảnh, Phường Tân Mai, Quận Hoàng Mai, Hà Nội                                                             1
+Đường Láng, Phường Láng Hạ, Quận Đống Đa, Hà Nội                                                                                1
+Phố Núi Trúc, Phường Giảng Võ, Quận Ba Đình, Hà Nội                                                                             1
+Đường Phạm Văn Đồng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội                                                                1
+Phố Khương Trung, Phường Khương Đình, Quận Thanh Xuân, Hà Nội                                                                   1
+21, Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                      1
+Chung cư Sông Nhuệ, Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội                                                            1
+151, Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội                                                                  1
+00, An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội                                                                      1
+Phố Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                      1
+1511, Đường Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội                                                           1
+Phố Thįnh Liệt, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội                                                                       1
+Đường Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội                                                                   1
+Lô A10-A14, Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội                                                                      1
+GH3 - CT17 - KĐT Việt Hưng, Đường Nguyễn Cao Luyện, Phường Việt Hưng, Quận Long Biên, Hà Nội                                    1
+Phố Nguyên Hồng, Phường Thành Công, Quận Ba Đình, Hà Nội                                                                        1
+102, Đường Nguyễn Trãi, Phường Khương Trung, Quận Thanh Xuân, Hà Nội                                                            1
+Lê Trọng Tấn, Phường Quang Trung, Quận Hà Đông, Hà Nội                                                                          1
+5, Phường Thượng Thanh, Quận Long Biên, Hà Nội                                                                                  1
+Ngõ 328 Tập thể F8, Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội                                         1
+Phố Hàm Nghi, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội                                                                        1
+B6, Phố Nghĩa Tân, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội                                                                      1
+TT Điện lực ngõ 36, Phố Lương Định Của, Phường Phương Mai, Quận Đống Đa, Hà Nội                                                 1
+Tập thể nhà A8, Phường Nam Đồng, Quận Đống Đa, Hà Nội                                                                           1
+Đường Đa Tốn, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội                                                                                  1
+Ngõ Thổ Quan, Phường Thổ Quan, Quận Đống Đa, Hà Nội                                                                             1
+Ngõ 87 Đường Yên Xá, Xã Tân Triều, Huyện Thanh Trì, Hà Nội                                                                      1
+8/3, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội                                                                                1
+Phố Thành Công, Phường Thành Công, Quận Ba Đình, Hà Nội                                                                         1
+Phố Ba La, Phường Phú Lương, Quận Hà Đông, Hà Nội                                                                               1
+Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội                                                                    1
+610, Phố Trần Thủ Độ, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội                                                                 1
+Ngõ 6 Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội                                                                         1
+Ngọc Hồi, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội                                                                          1
+Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội                                                                             1
+Tô Hiệu, Phường Hà Cầu, Quận Hà Đông, Hà Nội                                                                                    1
+Xa La, Phường Biên Giang, Quận Hà Đông, Hà Nội                                                                                  1
+Phố Xa La, Phường Phúc La, Quận Hà Đông, Hà Nội                                                                                 1
+282, Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội                                                                    1
+Đường Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội                                                                       1
+
+Biến: Quan
+Quan
+Quận Hoàng Mai       71
+Quận Nam Từ Liêm     70
+Huyện Gia Lâm        57
+Quận Thanh Xuân      44
+Quận Đống Đa         39
+Quận Hai Bà Trưng    34
+Quận Cầu Giấy        33
+Quận Hà Đông         30
+Quận Bắc Từ Liêm     28
+Quận Ba Đình         12
+Quận Tây Hồ          12
+Quận Long Biên       11
+Huyện Thanh Trì       6
+Huyện Đông Anh        4
+Huyện Hoài Đức        3
+Huyện Thanh Oai       1
+Huyện Đan Phượng      1
+
+Biến: TinhTrangBDS
+TinhTrangBDS
+Đã bàn giao      342
+Chưa bàn giao    114
+
+Biến: TenPhanKhu
+TenPhanKhu
+A            7
+B            5
+S1           3
+8            2
+GS3          1
+11           1
+A1           1
+s2           1
+SA5          1
+7            1
+River        1
+A2           1
+9            1
+CT10         1
+6B           1
+HH3 FLC      1
+S109         1
+CT 4C        1
+B1           1
+Hoàng Mai    1
+CT1          1
+b            1
+08           1
+5            1
+GH3          1
+CT6A         1
+17           1
+CT5C         1
+S303         1
+S301         1
+Ct6b         1
+GS2          1
+ct3          1
+GH1          1
+
+Biến: Loai
+Loai
+Chung cư                252
+Tập thể, cư xá           63
+Căn hộ dịch vụ, mini     36
+Duplex                    1
+
+Biến: GiayTo
+GiayTo
+Sổ hồng riêng       248
+Hợp đồng mua bán     40
+Đang chờ sổ           6
+1                     6
+Hợp đồng đặt cọc      2
+
+Biến: TinhTrangNoiThat
+TinhTrangNoiThat
+Nội thất đầy đủ      8
+Nội thất cao cấp     8
+Hoàn thiện cơ bản    2
+
+Biến: HuongCuaChinh
+HuongCuaChinh
+Tây Bắc     15
+Đông Nam    15
+Tây Nam     14
+Bắc         13
+Đông        12
+Đông Bắc    12
+Tây          5
+Nam          3
+
+Biến: HuongBanCong
+HuongBanCong
+Đông Nam    36
+Đông Bắc     9
+Nam          6
+Tây Nam      4
+Đông         3
+Bắc          2
+Tây          2
+Tây Bắc      1
+
+Biến: DacDiem
+DacDiem
+Căn góc    5
+
